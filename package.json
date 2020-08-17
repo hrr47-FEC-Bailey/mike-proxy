@@ -1,0 +1,19 @@
+{
+  "name": "mike-proxy",
+  "version": "1.0.0",
+  "description": "Mike's proxy implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrr47-FEC-Bailey/mike-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrr47-FEC-Bailey/mike-proxy/issues"
+  },
+  "homepage": "https://github.com/hrr47-FEC-Bailey/mike-proxy#readme"
+}
