@@ -1,11 +1,14 @@
 body {
   background-color: #1b2838;
   margin: 30px 142px 30px 142px;
+  align-content: center;
 }
 
 .game-content-wrapper {
   display: block;
   position: relative;
+  width: 940px;
+  margin: 0 auto;
 }
 
 .columns-wrapper {
@@ -35,7 +38,7 @@ body {
 .game-sidebar {
   display: block;
   position: relative;
-  float: left;
+  float: right;
 }
 
 .content-spacer {
@@ -59,5 +62,5 @@ body {
 #reviews {
   display: block;
   position: relative;
-  margin: 30px 142px 0 142px;
+  /* margin: 30px 142px 0 142px; */
 }
