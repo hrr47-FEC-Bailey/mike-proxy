@@ -1,0 +1,63 @@
+body {
+  background-color: #1b2838;
+  margin: 30px 142px 30px 142px;
+}
+
+.game-content-wrapper {
+  display: block;
+  position: relative;
+}
+
+.columns-wrapper {
+  display: block;
+  position: relative;
+}
+
+.content-spacer {
+  display: block;
+  position: relative;
+}
+
+.right-col {
+  width: 308px;
+  display: block;
+  position: relative;
+  float: right;
+}
+
+.left-col {
+  width: 616px;
+  display: block;
+  position: relative;
+  float: left;
+}
+
+.game-sidebar {
+  display: block;
+  position: relative;
+  float: left;
+}
+
+.content-spacer {
+  display: block;
+  position: relative;
+  margin: 30px;
+}
+
+#media-window {
+  display: block;
+  position: relative;
+  float: left;
+  margin-bottom: 150px;
+}
+
+#purchase-options {
+  display: block;
+  position: relative;
+}
+
+#reviews {
+  display: block;
+  position: relative;
+  margin: 30px 142px 0 142px;
+}
