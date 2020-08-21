@@ -33,6 +33,15 @@ body {
   display: block;
   position: relative;
   float: left;
+  margin: 0 auto;
+  padding: 0 0 20px 0;
+}
+
+.left-column-spacer {
+  display: block;
+  position: relative;
+  width: 940px;
+  margin: 25px auto 50px auto;
 }
 
 .game-sidebar {
@@ -44,7 +53,9 @@ body {
 .content-spacer {
   display: block;
   position: relative;
-  margin: 30px;
+  width: 940px;
+  height: 100px;
+  margin: 0 auto;
 }
 
 #media-window {
